@@ -1,0 +1,6 @@
+@Bressingham.Workshop.WebTools.Api_HostAddress = http://localhost:5146
+
+GET {{Bressingham.Workshop.WebTools.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
